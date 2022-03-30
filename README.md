@@ -1,9 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Portfolio: setup and mobile version skeleton
+# Bootstrap Portfolio
 
 > in this project:
-- Set up the linters for html&css.
 - Create a html - header & a main section & add a contact me section.
 
 
@@ -28,23 +27,15 @@
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- HTML & CSS
+- HTML & Bootstrap
 
 ### Setup
-- linters for HTML and CSS
+- Bootstrap
 
-### Run tests
-- Open your terminal, move to the directory where you want to clone the app (i.e cd Documents) 
-- Enter git clone git@github.com:ibr5500.github.io/Portfolio/
-- Change to the directory you just clone into (i.e cd Portfolio)
-- Open index.html from the list of files in your left handside
-- Right click on your opened index.html file and launch the live server to preview
-- Include any possible changes and run "git add ." 
-- Commit the changes with a descriptive message (i.e xyz features added) 
-- Push the changes to changes to the repository (i.e git push)
+
 
 ### Deployment
-- This app is deployed using Github pages (https://pages.github.com/)
+- 
 
 ## Authors
 
